@@ -357,11 +357,6 @@ systemctl enable vsftpd.service
     
 2. win文件管理器打开报错
 
-   
-
-![image-20191124125940385](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124125940385.png)
-
-
 
 ​          浏览器可以下载，因此是系统问题
 

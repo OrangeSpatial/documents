@@ -3,11 +3,11 @@
 1. 官网下载git并安装，安装后将bin目录配制到环境变量path中
 2. GitHub创建仓库
 
-![image-20191209162204697](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\image-20191209162204697.png)
+![image-20191209162204697](.\img\image-20191209162204697.png)
 
 3.添加public key
 
-![image-20191209162343033](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\image-20191209162343033.png)
+![image-20191209162343033](.\img\image-20191209162343033.png)
 
 4. 获得key
 
@@ -36,9 +36,9 @@
 
 5. 添加key
 
-   ![image-20191209162850729](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\image-20191209162850729.png)
+   ![image-20191209162850729](.\img\image-20191209162850729.png)
 
-![image-20191209162939928](C:\Users\cheng\AppData\Roaming\Typora\typora-user-images\image-20191209162939928.png)
+![image-20191209162939928](.\img\image-20191209162939928.png)
 
 -----
 

@@ -12,10 +12,6 @@
 
 打开任何一个windows 的资源管理器，输入ftp://192.168.30.80，出现登录界面
 
-![image-20191124162105911](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124162105911.png)
-
-<img src="C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124162140441.png" alt="image-20191124162140441" style="zoom:67%;" />
-
 输入账号密码进行登录。
 
 ### 账号密码说明：
@@ -42,19 +38,19 @@ dlUser3
 
 **用读写账号dlUser登录：**
 
-<img src="C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124162600435.png" alt="image-20191124162600435" style="zoom: 67%;" />
+
 
 目前根目录下就一个文件夹  /dl
 
-<img src="C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124162622179.png" alt="image-20191124162622179" style="zoom: 80%;" />
+
 
 右键---新建--文件夹，可以新建文件夹，但不能直接新建文件，文件需要在客户端（当前登录电脑）新建之后上传
 
-![image-20191124163019524](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124163019524.png)
+
 
 上传文件只需将客户机上文件拖进你需要上传到的文件夹内即可，也可以删除上传错误的文件，但不能将一个在服务器上的文件剪贴（拖拽）到其他文件夹中，只能下载到本机，再删除原文件，再上传到指定文件夹中。
 
-![image-20191124163633562](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124163633562.png)
+
 
 **用只读账号dlUser1/2/3登录：**
 
@@ -62,25 +58,25 @@ dlUser3
 
 此处用dlUser1登录
 
-![image-20191124164001554](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164001554.png)
+
 
 **只能将文件复制到客户机，不能新建文件夹，不能上传文件，不能删除文件**
 
 下载文件成功！！
 
-![image-20191124164139507](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164139507.png)
+
 
 上传文件，失败！！
 
-![image-20191124164211269](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164211269.png)
+
 
 删除失败！！
 
-![image-20191124164239669](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164239669.png)
+
 
 新建文件夹失败！！
 
-![image-20191124164339202](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164339202.png)
+
 
 ## 第二种方式：第三方工具
 
@@ -88,17 +84,11 @@ dlUser3
 
 选择FTP，输入账号密码，其他选项选填
 
-![image-20191124164710498](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164710498.png)
-
 右侧为服务器上面文件，左侧为本机文件，你可以进行如第一种方法一样的操作。
-
-![image-20191124164801972](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124164801972.png)
 
 ## 第三种方式：Linux平台
 
 在本机（192.168.30.80）上登录，通过FTP访问本机，其他同样的方法
-
-![image-20191124165200532](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191124165200532.png)
 
 执行以下命令进行登录：
 

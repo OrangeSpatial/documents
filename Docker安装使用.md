@@ -4,8 +4,6 @@
 
 系统：centos 7
 
-![image-20191130132524594](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191130132524594.png)
-
 ## 2.安装
 
 官方地址：https://docs.docker.com/install/linux/docker-ce/centos/
@@ -93,5 +91,16 @@ For more examples and ideas, visit:
 
 ## 3.aliyun加速
 
-![image-20191130152604922](C:\Users\Tcarry\AppData\Roaming\Typora\typora-user-images\image-20191130152604922.png)
+~~~ json
+docker@default-online:~$ cat ~/.docker/config.json
+{
+    "auths": {
+        "registry.cn-hangzhou.aliyuncs.com": {
+            "auth": "XXXXXXXXXXXXXXXXXXXXXX"
+        }
+    }
+}
+~~~
+
+
 

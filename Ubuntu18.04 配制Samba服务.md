@@ -72,17 +72,17 @@ sudo systemctl restart smbd
 
 输入账号密码后会拒绝访问等
 
-![smb1](.\0721\smb1.png)
+![smb1](.\.\img\smb1.png)
 
 --》在运行中输入“gpedit.msc”来启动本地组策略编辑器。
 
 --》在组策略编辑器中找到“计算机配置”-->网络-->Lanman工作站
 
-![smb1](.\0721\smb2.png)
+![smb1](.\.\img\smb2.png)
 
 --》已启用
 
-![smb1](.\0721\smb3.png)
+![smb1](.\.\img\smb3.png)
 
 
 
