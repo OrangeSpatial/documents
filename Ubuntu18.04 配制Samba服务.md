@@ -1,5 +1,7 @@
 # Ubuntu18.04 配制Samba服务
 
+https://www.jianshu.com/p/c4579605a737
+
 ### 更新当前软件
 
 ~~~
